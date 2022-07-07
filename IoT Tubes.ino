@@ -5,8 +5,8 @@
 String apiKey = "96SLPLVVWQTWF0RK";          //thingspeak credentials
 const char* server = "api.thingspeak.com";
 
-#define SSID "mataharikita"            //wifi credentials
-#define PASS "aninafif"
+#define SSID ""            //wifi credentials
+#define PASS ""
 
 const int DHTPin = D1;
 const int rain = D0;           //pin assignment
